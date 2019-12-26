@@ -192,7 +192,7 @@ h1, h3, h4, h5, p {
 
 body{
 	color:#888;
-	font: 300 16px/22px "Lato","Open Sans", "Helvetica Neue", Arial, sans-serif;
+	font: 300 16px/22px "Raleway","Open Sans", "Helvetica Neue", Arial, sans-serif;
 	background: #293f50
 }
 h1, h2, h3, h4 {
@@ -425,7 +425,7 @@ form {
 input,
 select,
 textarea {
-  font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 300 16px/22px "Raleway", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .register-group label {
   color: #648880;
